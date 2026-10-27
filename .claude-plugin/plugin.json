@@ -1,0 +1,16 @@
+{
+  "name": "devils-advocate",
+  "version": "0.1.0",
+  "description": "Attacks an idea from eight angles after six forcing questions, then gives a verdict, a scope mode and a prioritized fix list.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/devils-advocate",
+  "repository": "https://github.com/nvv-dev/devils-advocate",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
